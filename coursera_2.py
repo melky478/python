@@ -5,5 +5,3 @@ print('(o o)')
 print('/  V  \ ')
 print('/(  _  )\')
 print('^^ ^^')
-
-# some comment
